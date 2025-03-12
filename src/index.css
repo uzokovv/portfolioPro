@@ -1,11 +1,17 @@
 @import "tailwindcss";
 
-*{
+html {
+    scroll-behavior: smooth;
+}
+
+* {
     font-family: 'Josefin Sans', sans-serif;
 }
-body{
+
+body {
     background-color: #2C2523;
 }
-.borderColor{
+
+.borderColor {
     border-color: #FB9718;
 }
