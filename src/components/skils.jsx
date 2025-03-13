@@ -72,7 +72,6 @@ const Skils = () => {
           className=""
         />
       </div>
-      <div className='mb-100'></div>
     </div>
   )
 }

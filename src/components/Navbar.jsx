@@ -16,7 +16,7 @@ const Navbar = () => {
             </ul>
             <div>
                 <button type="button" className="px-4 py-2 rounded-full text-xl font-bold font-body text-white border-[#FB9718] border flex items-center gap-1 bg-gradient-to-r from-[#009FB3] to-[#F59317] transition-all duration-500 hover:scale-110 hover:border-[#F59317] cursor-pointer hover:shadow-cyanShadow">
-                    meni yollang
+                    <a href="https://www.canva.com/design/DAGPOvurd-4/pQmuPnbWUdQzgOxipsi9NA/view?utm_content=DAGPOvurd-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha577673be2">meni yollang</a>
                     <LuArrowDownRight />
                 </button>
             </div>

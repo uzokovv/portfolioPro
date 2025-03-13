@@ -4,8 +4,7 @@ import Home from './components/Home'
 import 'animate.css';
 import AboutMe from './components/AboutMe';
 import Skils from './components/skils';
-import Contact from './components/contact';
-import Projects from './components/Projects';
+import Aloqa from './components/Aloqa';
 
 const App = () => {
   return (
@@ -14,8 +13,8 @@ const App = () => {
       <Home />
       <AboutMe />
       <Skils />
-      <Projects />
-      <Contact />
+      <Aloqa />
+      <div className='mb-80'></div>
     </div>
   )
 }
