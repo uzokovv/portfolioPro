@@ -6,7 +6,7 @@ import { CiLocationOn } from 'react-icons/ci'
 
 const Aloqa = () => {
     return (
-        <div className='w-[1200px] container mx-auto mt-30'>
+        <div className='w-[1200px] container mx-auto mt-30' id='Aloqa'>
             <h1 className='text-5xl text-[#00C3E4] animate__animated text-center mb-4'>Men Bilan Bog'laning</h1>
             <div className='bg-[#53423E] flex justify-between rounded-[20px] p-8 '>
                 <div>

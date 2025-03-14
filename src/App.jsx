@@ -5,6 +5,7 @@ import 'animate.css';
 import AboutMe from './components/AboutMe';
 import Skils from './components/skils';
 import Aloqa from './components/Aloqa';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -14,7 +15,7 @@ const App = () => {
       <AboutMe />
       <Skils />
       <Aloqa />
-      <div className='mb-80'></div>
+      <Footer />
     </div>
   )
 }

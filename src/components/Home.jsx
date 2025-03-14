@@ -4,7 +4,7 @@ import React from 'react'
 const Home = () => {
     return (
         <div>
-            <div className='mt-50 flex justify-between items-center max-w-[1200px] text-[#F1E1D9] mx-auto container'>
+            <div className='mt-60 flex justify-between items-center max-w-[1200px] text-[#F1E1D9] mx-auto container'>
                 <div>
                     <h1 className='text-5xl text-[#FB9718] animate__animated animate__fadeInDown'>Uzoqov O'ktam</h1>
                     <h1 className='text-5xl mt-2 animate__animated animate__fadeInLeft'>Front-End Web Dasturchi</h1>
