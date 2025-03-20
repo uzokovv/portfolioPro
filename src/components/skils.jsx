@@ -32,10 +32,6 @@ const Skils = () => {
       icon: FaGithub,
     },
     {
-      skill: "NextJS",
-      icon: SiNextdotjs,
-    },
-    {
       skill: "TailwindCSS",
       icon: RiTailwindCssFill,
     },
@@ -45,7 +41,9 @@ const Skils = () => {
       <div className='container mx-auto max-w-[1200px] mt-30'>
         <div className='text-center'>
           <h1 className='text-5xl text-[#00C3E4] animate__animated'>Mening Mahoratim</h1>
-          <p className='mt-4 text-[#F1E1D9] '>Men nafaqat ushbu texnologiyalar bilan ishlayman, balki ularni yuqori sifatli natijalarga erishish uchun eng yaxshi amaliyotlar bilan ishlatishda juda yaxshi, men portfel loyihalarimni yaratish uchun ushbu ko'nikmalar bilan ishladim</p>
+          <p className='mt-4 text-[#F1E1D9] '>
+            Men nafaqat ushbu texnologiyalar bilan ishlayman, balki ularni eng yaxshi amaliyotlar asosida qo‘llab, yuqori sifatli natijalar olishda ustalik bilan foydalanaman. Men ushbu ko‘nikmalarimdan foydalanib, portfolio loyihalarim
+          </p>
         </div>
 
         <div className='flex items-center justify-center relative gap-2 mt-30 '>

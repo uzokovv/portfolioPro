@@ -6,13 +6,11 @@ const AboutMe = () => {
             <div className='animate__animated animate__fadeInLeft mt-30'>
                 <h1 className='text-5xl text-[#00C3E4] animate__animated'>Men Haqimda</h1>
                 <p className='w-[700px] mt-10'>
-                    Men Uktam emasman, ta'lim va kodlash uchun bir ehtiros bilan veb tuzuvchi instruktor. Men React va front-end rivojlanishiga ixtisoslashganman,
-                    talabalarga haqiqiy loyihalarni qurishda va zamonaviy veb-texnologiyalarni o'zlashtirishda yordam beraman. Men ham bir YouTube kanali ishlatish,
-                    CodeNest, men texnologiyalar muvaffaqiyatli martaba tomon o'z safarda izlanuvchan chiquvchilar hidoyat qilish qo'llanmalar va kurslar yaratish
-                    qaerda. Kodlashdan tashqari, men boshqalarga o'z maqsadlariga erishish uchun Ilhom berish uchun doimiy o'rganish va bilim almashishdan zavqlanaman.
+                    Men O'ktam, o‘qitish va dasturlashga ishtiyoqi baland bo‘lgan veb-dasturchilik bo‘yicha instruktor. Men React va front-end dasturlashga ixtisoslashganman hamda talabalarimga haqiqiy loyihalar yaratishda va zamonaviy veb-texnologiyalarni o‘zlashtirishda yordam berama
+                    Dasturlashdan tashqari, men doimiy o‘rganish va bilim almashishni yaxshi ko‘raman, boshqalarni o‘z maqsadlariga erishishga ilhomlantirishga harakat qilaman.
                 </p>
                 <button className="border border-[#FB9718] rounded-full py-2 px-4 text-lg flex gap-2 items-center mt-10 hover:bg-[#FB9718] transition-all duration-500 cursor-pointer md:self-start sm:self-center">
-                    My Projects
+                    Mening loyihalarim
                 </button>
             </div>
             <div className="animate__animated animate__fadeInRight h-[500px] w-[300px] relative">

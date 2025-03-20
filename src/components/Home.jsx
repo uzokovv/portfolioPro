@@ -13,7 +13,7 @@ const Home = () => {
                     {/* <img className='rounded-[50%] w-48 h-48' src={meImg} alt="" /> */}
                 </div>
             </div>
-            <div className='flex items-center justify-around gap-5 p-10 bg-[#54433F] text-[#F1E1D9] border-[#F1E1D9] mt-58 text-4xl w-[100%]'>
+            <div className='flex items-center justify-around gap-5 p-8 bg-[#54433F] text-[#F1E1D9] border-[#F1E1D9] mt-60 text-4xl w-[100%]'>
                 <h1>TEZ O'RGANUVCHI</h1>
                 <h1>JAMOA BILAN ISHLASH</h1>
                 <h1>TAFSILOTLAR USTASI</h1>

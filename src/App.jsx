@@ -6,6 +6,7 @@ import AboutMe from './components/AboutMe';
 import Skils from './components/skils';
 import Aloqa from './components/Aloqa';
 import Footer from './components/Footer';
+import Exprense from './components/Exprense';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Home />
       <AboutMe />
       <Skils />
+      <Exprense />
       <Aloqa />
       <Footer />
     </div>
