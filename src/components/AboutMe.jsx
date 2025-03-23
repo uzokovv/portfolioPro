@@ -6,14 +6,14 @@ const AboutMe = () => {
             <div className='animate__animated animate__fadeInLeft mt-30'>
                 <h1 className='text-5xl text-[#00C3E4] animate__animated'>Men Haqimda</h1>
                 <p className='w-[700px] mt-10'>
-                    Men O'ktam, o‘qitish va dasturlashga ishtiyoqi baland bo‘lgan veb-dasturchilik bo‘yicha instruktor. Men React va front-end dasturlashga ixtisoslashganman hamda talabalarimga haqiqiy loyihalar yaratishda va zamonaviy veb-texnologiyalarni o‘zlashtirishda yordam berama
+                    Men O'ktam, o‘qish va dasturlashga ishtiyoqi baland bo‘lgan veb-dasturchilik bo‘yicha instruktor. Men React va front-end dasturlashga ixtisoslashganman hamda talabalarimga haqiqiy loyihalar yaratishda va zamonaviy veb-texnologiyalarni o‘zlashtirishda yordam berama
                     Dasturlashdan tashqari, men doimiy o‘rganish va bilim almashishni yaxshi ko‘raman, boshqalarni o‘z maqsadlariga erishishga ilhomlantirishga harakat qilaman.
                 </p>
                 <button className="border border-[#FB9718] rounded-full py-2 px-4 text-lg flex gap-2 items-center mt-10 hover:bg-[#FB9718] transition-all duration-500 cursor-pointer md:self-start sm:self-center">
                     Mening loyihalarim
                 </button>
             </div>
-            <div className="animate__animated animate__fadeInRight h-[500px] w-[300px] relative">
+            <div className="animate__animated animate__fadeInRight h-[500px] w-[300px] relative md:mt-10">
                 <div className="h-[500px] w-[300px] rounded-[100px] absolute overflow-hidden">
                     <img
                         src={aboutMeImg}
