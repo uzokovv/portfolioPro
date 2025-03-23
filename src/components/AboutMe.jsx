@@ -2,7 +2,7 @@ import React from 'react'
 import aboutMeImg from '../assets/images/about-me.jpg'
 const AboutMe = () => {
     return (
-        <div id='MenHaqimda' className='container mx-auto w-full max-w-[1200px] flex flex-col md:flex-row items-center justify-between text-[#F1E1D9] mt-20 px-4'>
+        <div id='Menhaqimda' className='container mx-auto w-full max-w-[1200px] flex flex-col md:flex-row items-center justify-between text-[#F1E1D9] mt-20 px-4'>
             <div className='animate__animated animate__fadeInLeft md:mt-0 mt-10 text-center md:text-left'>
                 <h1 className='text-4xl md:text-5xl text-[#00C3E4] animate__animated'>Men Haqimda</h1>
                 <p className='max-w-[700px] mt-6 md:mt-10 mx-auto md:mx-0'>

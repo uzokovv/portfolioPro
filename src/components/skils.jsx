@@ -37,7 +37,7 @@ const Skils = () => {
     },
   ];
   return (
-    <div className='mt-20' id='Konikmalar'>
+    <div className='mt-20 hidden sm:block' id="Ko'nikmalar">
       <div className='container mx-auto max-w-[1200px] mt-30'>
         <div className='text-center'>
           <h1 className='text-5xl text-[#00C3E4] animate__animated'>Mening Mahoratim</h1>
